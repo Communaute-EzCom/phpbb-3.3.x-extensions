@@ -23,7 +23,7 @@ Our website: <a href="https://www.ezcom-fr.com">Communauté Ezcom</a> | Our repo
 Vous trouverez toutes les traductions françaises pour les extensions dédiées à phpBB 3.3.x & triées par ordre alphabétique.
 
 ## Extensions officielles (Équipe des personnalisations pour phpBB) :
-<a href="https://github.com/Communaute-EzCom/phpbb-3.3.x-extensions/tree/master/%23%20Officielles">Extensions officielles</a>.
+<a href="https://github.com/Communaute-EzCom/phpbb-3.3.x-extensions/tree/master/%23%C2%A0Officielles">Extensions officielles</a>.
 ## A à F :
 <a href="https://github.com/Communaute-EzCom/phpbb-3.3.x-extensions/tree/master/A-F">Extensions triées de A à F</a>.
 ## G à P :
