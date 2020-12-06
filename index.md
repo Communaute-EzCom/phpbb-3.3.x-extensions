@@ -2,7 +2,7 @@
 You can find all FRENCH translations for phpBB 3.3.x extensions & sorted by extension names.
 
 ## Officials extensions (phpBB’s Customisations Team)
-<a href="https://github.com/Communaute-EzCom/phpbb-3.3.x-extensions/tree/master/%23%20Officielles">Officials extensions</a>.
+<a href="https://github.com/Communaute-EzCom/phpbb-3.3.x-extensions/tree/master/%23%C2%A0Officielles">Officials extensions</a>.
 ## A to F:
 <a href="https://github.com/Communaute-EzCom/phpbb-3.3.x-extensions/tree/master/A-F">Extensions sorted from A to F</a>.
 ## G to P:
